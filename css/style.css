@@ -4,7 +4,7 @@
 body {
     color: #666666;
     background: #000000;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Georgia', sans-serif;
 }
 
 a {
@@ -320,7 +320,7 @@ a:focus {
 
 .header p {
     color: #FF6F61;
-    font-size: 22px;
+    font-size: 25px;
     font-weight: 600;
     margin-bottom: 10px;
 }
